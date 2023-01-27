@@ -8,8 +8,6 @@ Este projeto foi iniciado com [C#]
 
 ### `dotnet run`
 
-Para Executar o sistema.\
-
  `Processo de criação do projeto:`
 
 - [x] Criação das funcionalidades com C#;
